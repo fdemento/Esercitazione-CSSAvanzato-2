@@ -38,7 +38,7 @@ h3 {
 p{
     font-family: 'Inter', sans-serif;
     font-size: 13px;
-    letter-spacing: -0.03em;
+    letter-spacing: -0.02em;
 }
 
 .right p{
@@ -61,6 +61,9 @@ p{
     border-radius: 999px;
     background-color: #FFDF7E;
     transition: 0.3s;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    letter-spacing: -0.02em;
 }
 
 .cta button:hover{
