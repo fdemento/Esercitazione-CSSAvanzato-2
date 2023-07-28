@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: flex;
+    align-items: center;;
+    height: 95vh;
+    width: 95vh;
+    margin: auto;
+}
+
+.article {
+    display: flex;
+    background-color: #FCF7E3;
+    border-radius: 20px;
+    padding: 32px;
+}
+
+img {
+    flex-basis: 100%;
+    width: 500px;
+    margin-right: 32px;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    margin: 18px 0 18px 0;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
